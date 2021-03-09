@@ -8,7 +8,7 @@ using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
 using System.Collections.Generic;
 
-namespace ConsoleAp0
+namespace Hash
 {
     public class Program
     {
